@@ -1,0 +1,3 @@
+acessar o banco via pronpt para pegar o ip do banco.(tem que estar no ar.)
+docker-compose exec postgres sh
+Digitar o comando hostname -i
